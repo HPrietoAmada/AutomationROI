@@ -1,0 +1,6 @@
+framework module Pods_AutomationROI_AutomationROIUITests {
+  umbrella header "Pods-AutomationROI-AutomationROIUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
